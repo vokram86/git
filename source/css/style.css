@@ -858,7 +858,7 @@ body.mouse .bottom-menu__list > li:hover .sub-bottom-menu__list {
 }
 @media (max-width: 450px) {
   .category__list li:nth-child(3) {
-    width: 310px;
+    width: 309px;
   }
 }
 
