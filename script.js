@@ -1,7 +1,4 @@
-$('.header-burger').click(function () {
-   $('.header-burger, .menu__body').toggleClass('act');
-   $('body').toggleClass('lock');
-});
+
 
 function ibg() {
 
